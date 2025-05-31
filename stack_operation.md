@@ -44,6 +44,8 @@ void display() {
 }
 
 ```
+## Sample output 
+![alt text](image-3.png)
 
 ## 📥 How to Run
 ### Save the code in a file (e.g., stack_array.c)
