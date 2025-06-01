@@ -26,7 +26,7 @@ End
 
 ## Program:
 ```
-/*#include <stdio.h>
+#include <stdio.h>
 
 #define MAX 10
 
@@ -36,7 +36,7 @@ int delFront(int *, int *, int *);
 int delRear(int *, int *, int *);
 void display(int *);
 int count(int *);
-*/
+
 
 void addRear(int *arr, int item, int *pfront, int *prear) {
   int i;
